@@ -5,7 +5,7 @@ import requests
 
 # 数据库连接配置
 db_config = {
-    "host": "10.0.21.5",
+    "host": "192.168.100.102",
     "port": 3306,
     "user": "user",
     "password": "password",
